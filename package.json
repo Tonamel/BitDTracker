@@ -17,9 +17,17 @@
     "url": "https://github.com/Tonamel/Blades-in-the-Dark-tracker/issues"
   },
   "homepage": "https://github.com/Tonamel/Blades-in-the-Dark-tracker#readme",
+  "alias": {
+    "vue" : "./node_modules/vue/dist/vue.js"
+  },
   "dependencies": {
     "chart.js": "^2.7.3",
     "vue": "^2.5.17",
+    "vue-hot-reload-api": "^2.3.1",
     "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^2.3.0",
+    "vue-template-compiler": "^2.5.17"
   }
 }
