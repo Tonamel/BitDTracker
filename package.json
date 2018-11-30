@@ -1,0 +1,25 @@
+{
+  "name": "BitDTracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonamel/Blades-in-the-Dark-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonamel/Blades-in-the-Dark-tracker/issues"
+  },
+  "homepage": "https://github.com/Tonamel/Blades-in-the-Dark-tracker#readme",
+  "dependencies": {
+    "chart.js": "^2.7.3",
+    "vue": "^2.5.17",
+    "vuex": "^3.0.1"
+  }
+}
